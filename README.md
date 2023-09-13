@@ -1,2 +1,2 @@
 # dyingdetection
-Official repo for paper: Dying of detection
+Official repo for paper
